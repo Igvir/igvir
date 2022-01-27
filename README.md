@@ -1,4 +1,32 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Igvir Ramirez I'm a system engineer with strong leadership and project management abilities. I love solving challenging engineering problems, work with software design patterns, best practices, thoughtful architecture and building engineering teams.
+
+A common question is how to pronounce my name. 
+- 😄 Pronouns: eegveer
+
+---
+<a href="https://twitter.com/igvir">
+  <img align="left" alt="Igvir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://medium.com/@igvirr">
+  <img align="left" alt="Edgar's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://www.linkedin.com/in/igvir/">
+  <img align="left" alt="Igvir's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/igvircr">
+  <img align="left" alt="Igvir's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/igvir/">
+  <img align="left" alt="Igvir's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/igvir/">
+  <img align="left" alt="Igvir's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="mailto:igvirr@gmail.com">
+  <img align="left" alt="Igvir's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <!--
 **Igvir/igvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
