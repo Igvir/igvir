@@ -4,11 +4,12 @@ My name is Igvir Ramirez I'm a system engineer with strong leadership and projec
 
 A common question is how to pronounce my name. 
 - 😄 Pronouns: eegveer
+
 ---
 <a href="https://twitter.com/igvir">
   <img align="left" alt="Igvir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://medium.com/@igvir">
+<a href="https://medium.com/@igvirr">
   <img align="left" alt="Edgar's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.linkedin.com/in/igvir/">
