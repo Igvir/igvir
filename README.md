@@ -4,7 +4,7 @@
 My name is Igvir Ramirez I'm a system engineer with strong leadership and project management abilities. I love solving challenging engineering problems, work with software design patterns, best practices, thoughtful architecture and building engineering teams.
 
 A common question is how to pronounce my name. 
-- 😄 Pronouns: eegveer
+- 😄 Pronounce it: eegveer
 
 ---
 <a href="https://twitter.com/igvir">
