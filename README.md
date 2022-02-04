@@ -1,32 +1,32 @@
 <a href="https://github.com/igvir/"><img src="https://github.com/igvir/igvir/blob/main/banner.png"></a>
 ### Hello there 👋
 
-My name is Igvir Ramirez I'm a system engineer with strong leadership and project management abilities. I love solving challenging engineering problems, work with software design patterns, best practices, thoughtful architecture and building engineering teams.
+My name is Igvir Ramirez I'm a Computer Science Engineer with strong leadership and project management abilities. I love solving challenging engineering problems, work with software design patterns, best practices, thoughtful architecture and building engineering teams.
 
 A common question is how to pronounce my name. 
 - 😄 Pronounce it: eegveer
 
 ---
 <a href="https://twitter.com/igvir">
-  <img align="left" alt="Igvir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Igvir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 </a>
 <a href="https://medium.com/@igvirr">
-  <img align="left" alt="Edgar's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Edgar's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" />
 </a>
 <a href="https://www.linkedin.com/in/igvir/">
-  <img align="left" alt="Igvir's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Igvir's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/igvircr">
-  <img align="left" alt="Igvir's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Igvir's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/igvir/">
-  <img align="left" alt="Igvir's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Igvir's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/igvir/">
-  <img align="left" alt="Igvir's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Igvir's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
 </a>
 <a href="mailto:igvirr@gmail.com">
-  <img align="left" alt="Igvir's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Igvir's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />
 </a>
 
 <!--
