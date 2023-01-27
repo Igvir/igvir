@@ -1,4 +1,4 @@
-<a href="https://github.com/igvir/"><img src="https://github.com/igvir/igvir/blob/main/banner2-min.png"></a>
+<a href="https://github.com/igvir/"><img src="https://github.com/igvir/igvir/blob/main/banner2-black-small.png"></a>
 ### Hello there 👋
 
 My name is Igvir Ramirez I'm a Computer Science Engineer with strong leadership and project management abilities. I love solving challenging engineering problems, work with software design patterns, best practices, thoughtful architecture and building engineering teams.
